@@ -1,0 +1,28 @@
+
+
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Rancho&family=Sarina&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Itim&family=Rancho&family=Sarina&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Coiny&family=Great+Vibes&family=Itim&family=Rancho&family=Sarina&display=swap");
+
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+.sarina-regular {
+  font-family: "Sarina", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.itim-regular {
+  font-family: "Itim", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.coiny-regular {
+  font-family: "Coiny", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
