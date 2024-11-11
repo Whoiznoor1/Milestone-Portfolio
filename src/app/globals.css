@@ -2,14 +2,19 @@
 @import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Itim&family=Rancho&family=Sarina&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Coiny&family=Great+Vibes&family=Itim&family=Rancho&family=Sarina&display=swap");
 
+/* styles/globals.css */
+
+/* Import Tailwind's base styles */
 @tailwind base;
 
+/* Import Tailwind's component styles */
 @tailwind components;
 
+/* Import Tailwind's utility styles */
 @tailwind utilities;
 
-.sarina-regular {
-  font-family: "Sarina", cursive;
+.sarina-regular {                                  
+  font-family: "Sarina", cursive;                
   font-weight: 400;
   font-style: normal;
 }
